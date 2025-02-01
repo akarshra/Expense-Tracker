@@ -1,2 +1,11 @@
 # Expense-Tracker
-This Mini Expense Tracker is a web application that helps users manage their expenses efficiently. It includes authentication (JWT-based), expense CRUD operations, and spending insights with charts. Users can filter expenses by date and category, track spending patterns, and gain intelligent insights. Built with ReactJS (frontend), Node.js (backend), and MongoDB (database), it offers a clean UI with Shadcn/UI and data visualization using Recharts. Deployed on AWS for reliability.
+A simple and efficient expense-tracking application to manage your finances.
+
+User Authentication 🔐: Secure login with JWT-based authentication.
+Expense Management 📝: Add, edit, delete, and filter expenses by date & category.
+Spending Insights 📈: View total spending per category with percentage distribution.
+Interactive Charts 📊: Visualize spending trends using Recharts.
+Modern UI 🎨: Built with ReactJS & Shadcn/UI (Light & Dark mode).
+Backend ⚙️: Node.js with MongoDB & Mongoose.
+Deployment 🚀: Hosted on AWS.
+
